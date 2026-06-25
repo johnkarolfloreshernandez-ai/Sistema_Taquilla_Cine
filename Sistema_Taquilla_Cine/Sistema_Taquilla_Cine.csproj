@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Boleto.cs" />
     <Compile Include="BoletoEstudiante.cs" />
+    <Compile Include="BoletoGeneral.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
